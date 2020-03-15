@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using System.Text.RegularExpressions;
 using System.Threading.Tasks;
 
 namespace calculator2_5
@@ -24,6 +25,14 @@ namespace calculator2_5
                 Console.WriteLine("无法运算！！！");
             }
             
+        }/// <summary>
+        /// 
+        /// </summary>
+        /// <param name="str1">第一个字符串</param>
+        /// <param name="str2">第二个字符串</param>
+        public void Add(string str1,string str2)//重载 对输入的两个字符串进行连接运算
+        {
+            Console.WriteLine(str1+"+"+str2+"="+str1+str2);
         }
         public void Subtract()
         {
@@ -36,6 +45,15 @@ namespace calculator2_5
                 Console.WriteLine("无法运算！！！");
                 
             }
+        }
+        /// <summary>
+        /// 
+        /// </summary>
+        /// <param name="str1">第一个字符串</param>
+        /// <param name="str2">第二个字符串</param>
+        public void Subtract(string str1, string str2)//重载 从用户输入的第一个字符串中去除第二个字符串
+        {
+            Console.WriteLine(str1 + "-" + str2 + "="+str1.Replace(str2, ""));
         }
         public void Multiplication()
         {
