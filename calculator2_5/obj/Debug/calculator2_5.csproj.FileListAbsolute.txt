@@ -1,0 +1,7 @@
+C:\Users\bluem\source\repos\calculator2_5\calculator2_5\obj\Debug\calculator2_5.csprojAssemblyReference.cache
+C:\Users\bluem\source\repos\calculator2_5\calculator2_5\obj\Debug\calculator2_5.csproj.CoreCompileInputs.cache
+C:\Users\bluem\source\repos\calculator2_5\calculator2_5\bin\Debug\calculator2_5.exe.config
+C:\Users\bluem\source\repos\calculator2_5\calculator2_5\bin\Debug\calculator2_5.exe
+C:\Users\bluem\source\repos\calculator2_5\calculator2_5\bin\Debug\calculator2_5.pdb
+C:\Users\bluem\source\repos\calculator2_5\calculator2_5\obj\Debug\calculator2_5.exe
+C:\Users\bluem\source\repos\calculator2_5\calculator2_5\obj\Debug\calculator2_5.pdb
